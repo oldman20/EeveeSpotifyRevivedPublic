@@ -1,5 +1,7 @@
 ![Banner](Images/banner.png?)
 
+Use *org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb*
+
 # EeveeSpotify
 
 **Updated and maintained by Skye - Current Version 9.1.28**
