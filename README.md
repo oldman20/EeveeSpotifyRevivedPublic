@@ -1,6 +1,6 @@
 ![Banner](Images/banner.png?)
 
-Use *org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb*
+Use *[org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb](https://github.com/whoeevee/EeveeSpotifyReborn/releases/tag/swift6.2.2)*
 
 # EeveeSpotify
 
