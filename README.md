@@ -1,8 +1,10 @@
 ![Banner](Images/banner.png?)
 
+#
 Use *[org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb](https://github.com/whoeevee/EeveeSpotifyReborn/releases/tag/swift6.2.2)*
 
 # https://github.com/spotiflacapp/SpotiFLAC-Mobile
+<img width="1802" height="228" alt="Spotify Forks" src="https://github.com/user-attachments/assets/d490c4e0-7d58-4202-a3a7-d75b51914861" />
 
 # EeveeSpotify
 
