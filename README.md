@@ -2,6 +2,8 @@
 
 Use *[org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb](https://github.com/whoeevee/EeveeSpotifyReborn/releases/tag/swift6.2.2)*
 
+# https://github.com/spotiflacapp/SpotiFLAC-Mobile
+
 # EeveeSpotify
 
 **Updated and maintained by Skye - Current Version 9.1.28**
